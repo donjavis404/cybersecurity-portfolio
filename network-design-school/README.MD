@@ -47,3 +47,5 @@ Cada VLAN cuenta con su propia subred:
 
 Red funcional con comunicación entre VLANs y segmentación segura del tráfico.
 
+![Ping entre VLANs](imagenes/numero 1.png)
+![Funcionando](imagenes/numero 21.png)
